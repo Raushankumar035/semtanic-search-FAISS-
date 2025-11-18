@@ -1,0 +1,23 @@
+
+Database Basics
+===============
+
+Databases are structured systems used to store, manage, and retrieve data efficiently.
+They play a crucial role in modern applications ranging from web services to analytics platforms.
+
+Types of Databases
+------------------
+1. **Relational Databases (RDBMS)** — Store data in tables with relationships. Examples: MySQL, PostgreSQL, SQLite.
+2. **NoSQL Databases** — Handle unstructured data with flexible schemas. Examples: MongoDB, Cassandra, Redis.
+3. **Vector Databases** — Store high-dimensional embeddings for semantic similarity searches. Examples: FAISS, Pinecone, Milvus.
+
+Core Concepts
+--------------
+- **Schema:** Defines the structure of data.
+- **Query Language:** SQL is commonly used for interacting with RDBMS.
+- **Indexing:** Helps in fast retrieval of records.
+
+Applications
+------------
+Databases power applications like e-commerce, content management, finance systems, and machine learning pipelines.
+Vector databases, in particular, are essential for AI-driven tasks such as semantic search and recommendation engines.
